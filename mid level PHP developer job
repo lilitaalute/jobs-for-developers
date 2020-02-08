@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> New position for programmers! </h1>
+
+<?php echo "mid level PHP developer";
+echo "Take a look in description of the position: https://www.darbaguru.lv/lv/vakances/555-php-programmetajs-a-1 <br>";
+?>
+
+</body>
+</html>
