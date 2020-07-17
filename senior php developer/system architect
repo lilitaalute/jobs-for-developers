@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> New position for programmers! </h1>
+
+<?php echo "senior php developer / system architect";
+echo "Take a look in description of the position: https://www.darbaguru.lv/lv/vakances/665-vecakais-php-programmetajs-sistemu-arhitekts <br>";
+?>
+
+</body>
+</html>
