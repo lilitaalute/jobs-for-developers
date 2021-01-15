@@ -3,9 +3,9 @@
 <html>
 <body>
 
-<h1> Position is closed </h1>
-<h2> Mid level PHP developer position </h2>
-<h3> Take a look on job description - https://www.darbaguru.lv/lv/vakances/555-php-programmetajs-a-1" </h3>
+<h1> Open position, can apply till 03.02.2021 </h1>
+<h2> Junior ERP developer </h2>
+<h3> Take a look on job description - https://www.darbaguru.lv/lv/vakances/758-jaunakais-erp-programmetajs-a" </h3>
 
 <?php echo "Job description"; ?>
 
