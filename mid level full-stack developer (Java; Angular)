@@ -1,0 +1,13 @@
+# jobs-for-developers
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Open position, can apply till 26.02.2021. </h1>
+<h2> mid level Full-stack developer (Java; Angular) </h2>
+<h3> Take a look on job description - https://www.darbaguru.lv/lv/vakances/763-full-stack-programmetajs-a-java-angular" </h3>
+
+<?php echo "Job description"; ?>
+
+</body>
+</html> 
