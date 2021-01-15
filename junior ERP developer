@@ -1,3 +1,7 @@
+
+
+# jobs-for-developers
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -6,3 +10,6 @@
 <h3> Take a look on job description - https://www.darbaguru.lv/lv/vakances/758-jaunakais-erp-programmetajs-a" </h3>
 
 <?php echo "Job description"; ?>
+
+</body>
+</html> 
