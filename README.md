@@ -5,7 +5,7 @@
 
 <h1> 3 open positions in Latvia </h1>
 
-<h2> Nr.1 - Full-stack developer (PHP; JavaScript) </h2>
+<h2> Nr.1 - Full-stack developer (PHP/ JavaScript) </h2>
 <h3> Job description - https://www.darbaguru.lv/lv/vakances/838-full-stack-programmetajs-a-php-javascript" </h3>
   
 <h2> Nr.2 - Salesforce developer / Mentor </h2>
